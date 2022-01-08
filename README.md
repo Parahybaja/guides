@@ -1,6 +1,6 @@
 # Guias
 
-Conjunto de guias sobre assuntos diversos
+Guides about differents kind of assigment 
 
-Em constante construção...
+building...
 
