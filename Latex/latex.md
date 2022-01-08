@@ -1331,4 +1331,4 @@ Compilando o código visto acima obtemos o seguinte resultado:
 
 # Fonte
 
-Grupo PET Engenharia Elétríca. Apostila 7° edição de LATEX. Campina Grande: UFCG, 2016.
+Grupo PET Engenharia Elétrica. Apostila 7° edição de LATEX. Campina Grande: UFCG, 2016.
