@@ -1,6 +1,6 @@
 # Guides
 
-Guides about differents kind of assigment 
+Guides about differents kind of subject 
 
 Building...
 
